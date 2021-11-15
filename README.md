@@ -1,4 +1,4 @@
-Table schema for six CSV files containing employee compensation data for a fictional company. The following analysis was done using SQL commands:
+Table schema for six CSV files containing employee compensation data for a fictional company. Queries and views were created to do the following analysis in SQL commands:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
